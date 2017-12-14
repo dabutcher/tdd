@@ -1897,6 +1897,11 @@
           "height": 590,
           "width": 1225
         }
+      },
+      {
+        "title": "Exercise 3.4",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 3
       }
     ]
   }
