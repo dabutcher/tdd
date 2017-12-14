@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Number2",
+    "description": "Another Test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Another test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
